@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
 - [BKP-500](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) – Benchmark of 552 questions testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal year, government schemes), graded deterministically. Released by Sthānika AI.
+- [Indic-KCC Agri-Advisory Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) – Open-ended agricultural-advisory QA in 11 Indian languages, including Odia. 500 real farmer questions from India's Kisan Call Centre, scored 1–5 by an LLM judge. Dataset gated on Hugging Face (free, auto-approved access).
 
 ## Reasoning & Math
 
